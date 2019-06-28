@@ -1,4 +1,4 @@
-package algorithem.practice;
+package algorithms.practice;
 
 public class ReverseArray {
 

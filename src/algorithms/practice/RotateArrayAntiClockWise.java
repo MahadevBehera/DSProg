@@ -1,4 +1,4 @@
-package algorithem.practice;
+package algorithms.practice;
 //Rotate the Array 
 public class RotateArrayAntiClockWise {
 
